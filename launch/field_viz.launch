@@ -1,0 +1,4 @@
+<launch>
+    <node name="add_axis" pkg="field_viz" type="add_axis" />
+    <node name="add_post" pkg="field_viz" type="add_post" />
+</launch>
